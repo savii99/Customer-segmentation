@@ -1,0 +1,10 @@
+tensorflow
+pandas 
+notebook
+numpy
+matplotlib
+seaborn
+scikit-learn
+plotly
+scipy
+stats
